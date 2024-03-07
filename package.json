@@ -1,0 +1,26 @@
+{
+"name": "RandomTextGenerator",
+"version": "1.0.0",
+"description": "The RandomTextGenerator is a simple Python script designed to generate random text for various purposes. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/madilynnh1984/RandomTextGenerator.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "madilynnh1984",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
